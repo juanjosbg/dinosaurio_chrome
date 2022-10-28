@@ -27,4 +27,4 @@
 
 
 ### 
-[Juego Lanzado](https://oscarnovas.com)
+[Juego Lanzado](https://game-dinosaurio.surge.sh/)
